@@ -50,10 +50,10 @@ body {
 }
 html, body {
   height: 100%;
-  overflow: hidden;
+  overflow: scroll;
 }
 body {
-  margin: 0;
+  margin: 60;
   overflow: hidden; /* Oculta scroll vertical y horizontal */
 }
 
